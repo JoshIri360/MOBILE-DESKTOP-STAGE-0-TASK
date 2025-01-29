@@ -28,8 +28,8 @@ A React Native Expo application that demonstrates GitHub repository linking and 
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/JoshIri360/MOBILE-DESKTOP-STAGE-0-TASK.git
-   cd mobile-github-explorer
+   git clone https://github.com/JoshIri360/hng-stage0.git
+   cd hng-stage0
    ```
 
 2. Install dependencies:
@@ -48,8 +48,10 @@ A React Native Expo application that demonstrates GitHub repository linking and 
 
 ## 📱 Live Demo
 
-Try the app directly in your browser using our Appetize.io demo:
-[Launch Demo](YOUR_APPETIZE_LINK)
+Try the app directly in your browser using Appetize.io:
+
+- [iOS Demo](https://appetize.io/app/b_vot3cmtha65ivnvazhccxdcjam)
+- [Android Demo](https://appetize.io/app/b_c6rfkj6uuzwyt6orlkdcyun3tm)
 
 ## 🤝 Contributing
 
