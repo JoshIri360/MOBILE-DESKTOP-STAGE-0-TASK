@@ -9,13 +9,6 @@ A React Native Expo application that demonstrates GitHub repository linking and 
 - Cross-platform compatibility (iOS & Android)
 - Clean and intuitive user interface
 
-## 🔗 Important Links
-
-- [HNG React Native Developers](https://hng.tech/react-native-developers)
-- [HNG Mobile Developers](https://hng.tech/mobile-developers)
-- [Telex](https://telex.com)
-- [Delve](https://delve.com)
-
 ## 🚀 Getting Started
 
 ### Prerequisites
@@ -29,7 +22,7 @@ A React Native Expo application that demonstrates GitHub repository linking and 
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/yourusername/mobile-github-explorer.git
+   git clone https://github.com/JoshIri360/MOBILE-DESKTOP-STAGE-0-TASK.git
    cd mobile-github-explorer
    ```
 
