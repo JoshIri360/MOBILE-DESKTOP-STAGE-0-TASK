@@ -9,6 +9,12 @@ A React Native Expo application that demonstrates GitHub repository linking and 
 - Cross-platform compatibility (iOS & Android)
 - Clean and intuitive user interface
 
+## 🔗 Important Links
+- [Github Link](https://github.com/JoshIri360/MOBILE-DESKTOP-STAGE-0-TASK)
+- [React-Native Developers](https://hng.tech/hire/react-native-developers)
+- [Telex](https://telex.im)
+- [Delve](https://delve.fun/)
+
 ## 🚀 Getting Started
 
 ### Prerequisites
