@@ -1,4 +1,4 @@
-# Mobile GitHub Explorer
+# HNG Link Explorer
 
 A React Native Expo application that demonstrates GitHub repository linking and HNG profile integration.
 
