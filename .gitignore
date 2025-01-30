@@ -41,7 +41,7 @@ app-example
 *.apk
 *.tar.gz
 
-/android
-/ios
+/mobile-app/android
+/mobile-app/ios
 
 package-lock.json
